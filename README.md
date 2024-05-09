@@ -6,6 +6,6 @@
 .🧰 My analytics toolbox contains SQL, Python, Power BI, DAX, Power Query & MS Excel.
 .📚 Specialized in data collection, data cleaning, data analysis, and data visualization.
 .💬 Ask me about SQL, Power BI.
-.📫 Reach me at Gmail - rastogi.sanya28@gmail.com
-.🔗 Connect with me at LinkedIn - www.linkedin.com/in/rastogi-sanya/
+.📫 Reach me at Gmail - karan.chougule.1520@gmail.com
+.🔗 Connect with me at LinkedIn - https://github.com/Karannchougule
 .❤️ I love learning new things!
